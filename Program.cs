@@ -105,7 +105,14 @@ namespace T3Game
                 }
                 Console.WriteLine();
             }
-            //AQUI IRA EL HUD DE PERSONAJE
+            //HUD integrado debajo del mapa
+            System.Console.WriteLine("==================================================");
+            System.Console.WriteLine($"Jugador: {jugadorNombre.ToUpper()} | Clase: [Símbolo: {jugadorSimbolo} | Nivel: {jugadorNivel}]");
+            System.Console.WriteLine("==================================================");
+            System.Console.WriteLine($"HP: {jugadorHPActual}/{jugadorHPMax} | Maná: {jugadorManaACtual}/{jugadorManaMax}");
+            System.Console.WriteLine($"Ataque: {jugadorAtaque}          |           Defensa: {jugadorDefensa}");
+            System.Console.WriteLine($"Oro: {jugadorOro}              |           Experiencia: {jugadorEXP}");
+            System.Console.WriteLine("==================================================");
         }
     }
 }
