@@ -4,6 +4,8 @@ namespace T3Game
     class Program
     {
         //Variables globales del personaje principal
+        static string jugadorNombre="Héroe";
+        static char jugadorSimbolo='@';
         static int jugadorNivel=1;
         static int jugadorHPMax=100;
         static int jugadorHPActual=100;
@@ -43,6 +45,39 @@ namespace T3Game
 };
         static void Main(string[]args)
         {
+            //Permite el uso de caracteres especiales
+            Console.OutputEncoding=System.Text.Encoding.UTF8;
+            //Menú de inicio
+            Console.Clear();
+            System.Console.WriteLine("========================================");
+            System.Console.WriteLine("        BIENVENIDO A LA MAZMORRA        ");
+            System.Console.WriteLine("========================================");
+            System.Console.Write("Por favor, ingrese el nombre de su personaje: ");
+            string entradaNombre=Console.ReadLine();
+            if(!string.IsNullOrWhiteSpace(entradaNombre))
+            {
+                jugadorNombre=entradaNombre;
+            }
+            System.Console.WriteLine("Seleccione su avatar");
+            System.Console.WriteLine("1. Guerrero Estándar  [☺]");
+            System.Console.WriteLine("2. Héroe del Escudo   [Ω]");
+            System.Console.WriteLine("3. Mago de Magia      [✵]");
+            System.Console.WriteLine("4. Gladiador          [┼]");
+            System.Console.WriteLine("5. Asesino            [☠]");
+
+            string opcion=Console.ReadLine();
+            switch(opcion)
+            {
+                case "2":jugadorSimbolo='Ω';break;
+                case "3":jugadorSimbolo='✵';break;
+                case "4":jugadorSimbolo='┼';break;
+                case "5":jugadorSimbolo='☠';break;
+                default: jugadorSimbolo='☺';break;
+            }
+            Console.WriteLine("Creación de personaje completada, Presione ENTER para continuar...");
+            Console.ReadLine();
+
+            //Inicio del juego
             Console.CursorVisible=false;
             DibujarEscenario();
             Console.ReadLine();
@@ -60,7 +95,7 @@ namespace T3Game
                     if (f==jugadorFila&&c==jugadorColumna)
                     {
                         Console.ForegroundColor=ConsoleColor.Cyan;
-                        Console.Write("@");
+                        Console.Write(jugadorSimbolo);
                         Console.ResetColor();
                     }
                     else
@@ -70,6 +105,7 @@ namespace T3Game
                 }
                 Console.WriteLine();
             }
+            //AQUI IRA EL HUD DE PERSONAJE
         }
     }
 }
