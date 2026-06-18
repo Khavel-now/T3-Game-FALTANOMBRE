@@ -79,8 +79,36 @@ namespace T3Game
 
             //Inicio del juego
             Console.CursorVisible=false;
-            DibujarEscenario();
-            Console.ReadLine();
+            while(true)
+            {
+                DibujarEscenario();
+                ConsoleKeyInfo tecla=Console.ReadKey(true);
+                switch(tecla.Key)
+                {
+                    case ConsoleKey.UpArrow:
+                    case ConsoleKey.W:
+                        jugadorFila--;
+                        break;
+                    case ConsoleKey.DownArrow:
+                    case ConsoleKey.S:
+                        jugadorFila++;
+                        break;
+                    case ConsoleKey.LeftArrow:
+                    case ConsoleKey.A:
+                        jugadorColumna--;
+                        break;
+                    case ConsoleKey.RightArrow:
+                    case ConsoleKey.D:
+                        jugadorColumna++;
+                        break;
+                    //Para salir del juego
+                    case ConsoleKey.Escape:
+                        Console.Clear();
+                        System.Console.WriteLine("Juego finalizado. Gracias por jugar");
+                        return;
+                    
+                }
+            }
         }
         static void DibujarEscenario()
         {
