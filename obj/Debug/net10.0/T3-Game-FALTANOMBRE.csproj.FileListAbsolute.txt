@@ -1,0 +1,15 @@
+D:\Proyectos\T3 JUEGO\T3-Game-FALTANOMBRE\bin\Debug\net10.0\T3-Game-FALTANOMBRE.exe
+D:\Proyectos\T3 JUEGO\T3-Game-FALTANOMBRE\bin\Debug\net10.0\T3-Game-FALTANOMBRE.deps.json
+D:\Proyectos\T3 JUEGO\T3-Game-FALTANOMBRE\bin\Debug\net10.0\T3-Game-FALTANOMBRE.runtimeconfig.json
+D:\Proyectos\T3 JUEGO\T3-Game-FALTANOMBRE\bin\Debug\net10.0\T3-Game-FALTANOMBRE.dll
+D:\Proyectos\T3 JUEGO\T3-Game-FALTANOMBRE\bin\Debug\net10.0\T3-Game-FALTANOMBRE.pdb
+D:\Proyectos\T3 JUEGO\T3-Game-FALTANOMBRE\obj\Debug\net10.0\T3-Game-FALTANOMBRE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\T3 JUEGO\T3-Game-FALTANOMBRE\obj\Debug\net10.0\T3-Game-FALTANOMBRE.AssemblyInfoInputs.cache
+D:\Proyectos\T3 JUEGO\T3-Game-FALTANOMBRE\obj\Debug\net10.0\T3-Game-FALTANOMBRE.AssemblyInfo.cs
+D:\Proyectos\T3 JUEGO\T3-Game-FALTANOMBRE\obj\Debug\net10.0\T3-Game-FALTANOMBRE.csproj.CoreCompileInputs.cache
+D:\Proyectos\T3 JUEGO\T3-Game-FALTANOMBRE\obj\Debug\net10.0\T3-Game-FALTANOMBRE.sourcelink.json
+D:\Proyectos\T3 JUEGO\T3-Game-FALTANOMBRE\obj\Debug\net10.0\T3-Game-FALTANOMBRE.dll
+D:\Proyectos\T3 JUEGO\T3-Game-FALTANOMBRE\obj\Debug\net10.0\refint\T3-Game-FALTANOMBRE.dll
+D:\Proyectos\T3 JUEGO\T3-Game-FALTANOMBRE\obj\Debug\net10.0\T3-Game-FALTANOMBRE.pdb
+D:\Proyectos\T3 JUEGO\T3-Game-FALTANOMBRE\obj\Debug\net10.0\T3-Game-FALTANOMBRE.genruntimeconfig.cache
+D:\Proyectos\T3 JUEGO\T3-Game-FALTANOMBRE\obj\Debug\net10.0\ref\T3-Game-FALTANOMBRE.dll
