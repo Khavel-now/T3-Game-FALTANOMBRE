@@ -57,7 +57,16 @@ namespace T3Game
             {
                 for(int c=0;c<columnas;c++)
                 {
-                    Console.Write(mapa[f,c]);
+                    if (f==jugadorFila&&c==jugadorColumna)
+                    {
+                        Console.ForegroundColor=ConsoleColor.Cyan;
+                        Console.Write("@");
+                        Console.ResetColor();
+                    }
+                    else
+                    {
+                        Console.Write(mapa[f,c]);
+                    }
                 }
                 Console.WriteLine();
             }
