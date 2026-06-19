@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6S+6Y8FUUzw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Khaos\\Desktop\\Game-T3\\(Boceto) Game - copia - simple\\(Boceto) Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Khaos\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Khaos\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Khaos\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Khaos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.28\\microsoft.netcore.app.host.win-x64.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

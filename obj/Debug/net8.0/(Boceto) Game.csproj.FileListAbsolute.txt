@@ -1,0 +1,28 @@
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game\obj\Debug\net8.0\(Boceto) Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game\obj\Debug\net8.0\(Boceto) Game.AssemblyInfoInputs.cache
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game\obj\Debug\net8.0\(Boceto) Game.AssemblyInfo.cs
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game\obj\Debug\net8.0\(Boceto) Game.csproj.CoreCompileInputs.cache
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game\bin\Debug\net8.0\(Boceto) Game.exe
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game\bin\Debug\net8.0\(Boceto) Game.deps.json
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game\bin\Debug\net8.0\(Boceto) Game.runtimeconfig.json
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game\bin\Debug\net8.0\(Boceto) Game.dll
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game\bin\Debug\net8.0\(Boceto) Game.pdb
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game\obj\Debug\net8.0\(Boceto) Game.dll
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game\obj\Debug\net8.0\refint\(Boceto) Game.dll
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game\obj\Debug\net8.0\(Boceto) Game.pdb
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game\obj\Debug\net8.0\(Boceto) Game.genruntimeconfig.cache
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game\obj\Debug\net8.0\ref\(Boceto) Game.dll
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game - copia\bin\Debug\net8.0\(Boceto) Game.exe
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game - copia\bin\Debug\net8.0\(Boceto) Game.deps.json
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game - copia\bin\Debug\net8.0\(Boceto) Game.runtimeconfig.json
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game - copia\bin\Debug\net8.0\(Boceto) Game.dll
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game - copia\bin\Debug\net8.0\(Boceto) Game.pdb
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game - copia\obj\Debug\net8.0\(Boceto) Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game - copia\obj\Debug\net8.0\(Boceto) Game.AssemblyInfoInputs.cache
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game - copia\obj\Debug\net8.0\(Boceto) Game.AssemblyInfo.cs
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game - copia\obj\Debug\net8.0\(Boceto) Game.csproj.CoreCompileInputs.cache
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game - copia\obj\Debug\net8.0\(Boceto) Game.dll
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game - copia\obj\Debug\net8.0\refint\(Boceto) Game.dll
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game - copia\obj\Debug\net8.0\(Boceto) Game.pdb
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game - copia\obj\Debug\net8.0\(Boceto) Game.genruntimeconfig.cache
+C:\Users\Khaos\Desktop\Game-T3\(Boceto) Game - copia\obj\Debug\net8.0\ref\(Boceto) Game.dll
